@@ -1,10 +1,10 @@
-# TRC404: Next-gen Hybrid Memecoin Standard on Tron
+# ERC404Meme: Next-gen Hybrid Memecoin Standard
 
 ## Introduction
 
-TRC404 is an opinionated yet practical implementation of the [ERC404](https://github.com/Pandora-Labs-Org/erc404) standard, aimed at adding substantial value and utility to memecoins on EVM chains (like Tron) by enabling generative PFP NFT collections that are natively tied to them.
+ERC404Meme is an opinionated yet practical implementation of the [ERC404](https://github.com/Pandora-Labs-Org/erc404) standard, aimed at adding substantial value and utility to memecoins on EVM chains (like Base) by enabling generative PFP NFT collections that are natively tied to them.
 
-![TRC404 Banner](https://github.com/user-attachments/assets/be192c87-8b00-4854-aeab-d95f0c0cfbc9)
+![ERC404Meme Banner](https://github.com/user-attachments/assets/be192c87-8b00-4854-aeab-d95f0c0cfbc9)
 
 ## Distinctions from Legacy ERC404
 
@@ -35,11 +35,11 @@ These videos demonstrate the innovative interactions within the ERC404 ecosystem
 
 ### Workflow 🖼️
 
-![TRC404 drawio](https://github.com/ordex-io/ERC404Meme/assets/81595884/abb414de-581c-4651-b57a-35bca117752d)
+![ERC404Meme drawio](https://github.com/ordex-io/ERC404Meme/assets/81595884/abb414de-581c-4651-b57a-35bca117752d)
 
 ## Getting Started
 
-To begin working with TRC404, follow these steps:
+To begin working with ERC404Meme, follow these steps:
 
 1. Clone this repository
 2. Install dependencies: `npm install`
@@ -48,6 +48,6 @@ To begin working with TRC404, follow these steps:
 
 ## Credits
 
-TRC404 is being collaboratively developed with insights and contributions from the teams at [Angry Pets](https://x.com/AngryPetsMeme) and [Ordex.io](https://x.com/ordex_io), along with significant individual contributions from: [@NanezX](https://github.com/NanezX), [@pash7ka](https://github.com/pash7ka)
+ERC404Meme is being collaboratively developed with insights and contributions from the teams at [Angry Pets](https://x.com/AngryPetsMeme) and [Ordex.io](https://x.com/ordex_io), along with significant individual contributions from: [@NanezX](https://github.com/NanezX), [@pash7ka](https://github.com/pash7ka)
 
 We welcome contributions from the community. If you have suggestions, bug fixes, or enhancements, please submit a pull request or open an issue on GitHub. Let's build a more engaging and valuable memecoin ecosystem together!
